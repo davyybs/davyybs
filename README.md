@@ -2,7 +2,7 @@
 
 Olá, meu nome é Davi Fereira e sou um Desenvolvedor de Software! 
 
-Foco em tecnologias de Desenvolvimento Web e Mobile.
+Foco em tecnologias de Desenvolvimento Web.
 
 Também possuo expêriencia utilizando Figma para design das aplicações e utilizo o ambiente Linux no meu dia a dia.
 
